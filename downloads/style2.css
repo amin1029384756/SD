@@ -1,0 +1,32 @@
+body{
+        background-image:url("https://cdn.glitch.com/296497cb-4edf-47fe-9597-3598be9afa90%2Fiz01rjx0xqa.jpg?v=1614125062081");
+        font-family:monospace;
+        color:red;
+      }
+      
+.heading{
+        font-size:100px;
+        text-align:center;
+      }
+      
+p{
+        text-align:center;
+        font-size:20px;
+      }
+
+.btn{
+       text-decoration:none;
+        background-image:url("https://cdn.glitch.com/296497cb-4edf-47fe-9597-3598be9afa90%2Fiz01rjx0xqa.jpg?v=1614125062081");
+        
+        font-size:20px;
+        color:red;
+      }
+
+label{
+        font-size:30px;
+      }
+
+.dwnld{
+        display:inline-block;
+        text-decoration:none;
+      }
